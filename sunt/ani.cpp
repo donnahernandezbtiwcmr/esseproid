@@ -1,0 +1,1 @@
+NewTaskInstance->PlayerController = AvatarController;
